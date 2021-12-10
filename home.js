@@ -928,7 +928,7 @@ $(function(){
     //用户访问记录初始化
     MAC.Ulog.Init();
     //联想搜索初始化
-    MAC.Suggest.Init();
+    //MAC.Suggest.Init('.mac_wd',0,'');
     //网址导航来路统计
     MAC.Website.Referer();
     //定时任务初始化
